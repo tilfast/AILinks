@@ -23,3 +23,8 @@ http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object
 Computer vision:
 
 http://www.themtank.org/a-year-in-computer-vision?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUalmdsSDQnO%2BZCAOa6GGzg%3D%3D
+
+
+Lot's of predictions (stock exchange)
+
+https://towardsdatascience.com/aifortrading-2edd6fac689d
